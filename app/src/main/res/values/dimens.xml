@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="margin">2dp</dimen>
+    <dimen name="padding">2dp</dimen>
+
+    <dimen name="number_button_text_size">18dp</dimen>
+    <dimen name="editor_button_text_size">9dp</dimen>
+    <dimen name="input_textview_text_size">30dp</dimen>
+
+    <dimen name="stack_position_textview_text_size">15dp</dimen>
+    <dimen name="stack_value_textview_text_size">30dp</dimen>
+</resources>

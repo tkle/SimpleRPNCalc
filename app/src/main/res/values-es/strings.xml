@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sencilla RPN Calculadora</string>
+    <string name="error_syntax">Error de sintaxis</string>
+    <string name="error_arithmetic_overflow">Error: Desbordamiento aritmético.</string>
+    <string name="error_too_few_arg">%1s Error: Muy pocos argumentos.</string>
+    <string name="error_divide_by_zero">%1s Error: Dividir entre cero.</string>
+    <string name="clear">CLARA</string>
+    <string name="delete">ELIMINAR</string>
+    <string name="erase">RETROCESO</string>
+    <string name="enter">INGRESAR</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="clear_stack">BORRAR TODO</string>
+    <string name="clear_all">BORRAR TODO</string>
+</resources>

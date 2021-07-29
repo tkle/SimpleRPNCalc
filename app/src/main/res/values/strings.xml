@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Simple RPN Calculator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="clear_all">CLEAR ALL</string>
+    <string name="clear">CLEAR</string>
+    <string name="erase">BACK</string>
+    <string name="enter">ENTER</string>
+
+    <string name="percent">%󠀥</string>
+    <string name="percent_add">+%</string>
+    <string name="percent_subtract">-%</string>
+
+    <string name="divide">➗</string>
+    <string name="multiple">✖️</string>
+    <string name="subtract">➖</string>
+    <string name="add">➕</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+    <string name="decimal_point">.</string>
+    <string name="negate">+/-</string>
+
+    <string name="error_syntax"><b>Syntax Error</b></string>
+    <string name="error_too_few_arg">%1s Error: Too few arguments.</string>
+    <string name="error_arithmetic_overflow">Error: Arithmetic overflow.</string>
+    <string name="error_divide_by_zero">%1s Error: Divide by zero.</string>
+</resources>

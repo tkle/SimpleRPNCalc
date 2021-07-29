@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Facile RPN Calculatrice</string>
+    <string name="error_arithmetic_overflow">Erreur: Débordement arithmétique.</string>
+    <string name="error_syntax">Erreur de syntaxe</string>
+    <string name="error_too_few_arg">%1s Erreur: Trop peu d\'arguments.</string>
+    <string name="error_divide_by_zero">%1s Erreur: Diviser par zéro.</string>
+    <string name="clear">EFFACER</string>
+    <string name="delete">EFFACER</string>
+    <string name="erase">"RETOUR ARRIÈRE "</string>
+    <string name="enter">ENTRER</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="clear_stack">TOUT EFFACER</string>
+    <string name="clear_all">TOUT EFFACER</string>
+</resources>

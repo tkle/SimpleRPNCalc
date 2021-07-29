@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="numberButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:enabled">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textSize">@dimen/number_button_text_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@color/light_gray</item>
+        <item name="android:buttonStyle">@drawable/number_button_border</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_gravity">fill_horizontal</item>
+    </style>
+
+    <style name="operatorButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:enabled">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textSize">@dimen/number_button_text_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@color/gray</item>
+        <item name="android:buttonStyle">@drawable/number_button_border</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_gravity">fill_horizontal</item>
+    </style>
+
+    <style name="editorButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:enabled">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textSize">@dimen/editor_button_text_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@color/dark_gray</item>
+        <item name="android:buttonStyle">@drawable/number_button_border</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_gravity">fill_horizontal</item>
+    </style>
+
+    <style name="inputTextView">
+        <item name="android:elevation">10dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_gravity">fill_horizontal</item>
+        <item name="android:textSize">@dimen/input_textview_text_size</item>
+        <item name="android:background">@drawable/textview_border</item>
+    </style>
+
+    <style name="buttonLinearLayout">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:paddingStart">@dimen/padding</item>
+        <item name="android:paddingEnd">@dimen/padding</item>
+    </style>
+</resources>
