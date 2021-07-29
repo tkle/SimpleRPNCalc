@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Simple RPN Calculator</string>
-    <string name="action_settings">Settings</string>
+
     <!-- Strings used for fragments for navigation -->
     <string name="clear_all">CLEAR ALL</string>
     <string name="clear">CLEAR</string>
@@ -27,11 +27,25 @@
     <string name="nine">9</string>
     <string name="zero">0</string>
 
-    <string name="decimal_point">.</string>
+    <string name="decimal_point" translatable="false">.</string>
     <string name="negate">+/-</string>
 
     <string name="error_syntax"><b>Syntax Error</b></string>
     <string name="error_too_few_arg">%1s Error: Too few arguments.</string>
     <string name="error_arithmetic_overflow">Error: Arithmetic overflow.</string>
     <string name="error_divide_by_zero">%1s Error: Divide by zero.</string>
+
+    <string name="request_login_text">Please sign in to request support.</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="hint_subject">Subject</string>
+    <string name="hint_detail_description">Enter detail description of your issue.</string>
+
+    <string name="contact_support">Contact Support</string>
+    <string name="email_support">Email Support</string>
+    <string name="eula" translatable="false">EULA</string>
+    <string name="title_activity_eula">End User License Agreement</string>
+    <string name="delete">DELETE</string>
+
 </resources>
